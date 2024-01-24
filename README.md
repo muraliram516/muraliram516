@@ -14,3 +14,5 @@ Frontend Engineer Developer
 <b>IDE and Tools I Use</b>
 
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/> <img height="50" src="https://img.icons8.com/color/480/null/notion--v1.png" />
+
+[![Muraliram's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=muraliram516&bg_color=000000&color=ff0aef&line=c70000&point=9f9393&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
