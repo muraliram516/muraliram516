@@ -5,7 +5,7 @@ Hi there 👋 <b> I'm Muraliram </b>
 -  I’m currently learning MERN & DSA
 -  How to reach me :
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/murali-ram/)
-
+- My Portfolio: https://muraliram.vercel.app/
 <b>I code in</b>
 
  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
