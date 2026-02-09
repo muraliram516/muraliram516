@@ -28,5 +28,3 @@ I am interested in roles involving:
 - Applied Machine Learning Engineer
 - ML Engineer (Production / Risk / Analytics)
 - Data Scientist (Applied)
-
-This GitHub is used to share selected work related to Python development and applied machine learning systems.
