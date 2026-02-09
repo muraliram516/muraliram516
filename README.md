@@ -1,26 +1,32 @@
-Hi there 👋 <b> I'm Muraliram </b>
+## Applied Machine Learning Engineer | Python Developer
 
-<b> Frontend Developer </b> 
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">                                                
--  I’m currently learning MERN & DSA
--  How to reach me :
-<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/muraliram-n/)
-- My Portfolio: https://muraliram.vercel.app/</br>
-<b>I code in</b>
+I design and build Python-based systems focused on applied machine learning and data-driven decision support.  
+My work emphasizes production readiness, reliability, and aligning ML outputs with real-world business constraints.
 
- <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> 
-<img height="50" width="50" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"/>
-<img height="50" width="50" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
-<br/>
+### What I Work On
+- Applied machine learning systems for classification and risk scoring
+- Feature engineering and model evaluation for decision-focused ML problems
+- Data preprocessing pipelines and ML inference workflows
+- Python backend logic and REST-based integrations
 
-<b>IDE and Tools I Use</b>
+### Technical Focus
+- **Programming:** Python, SQL, JavaScript  
+- **Machine Learning:** Applied ML, Supervised Learning, Classification, Regression, Feature Engineering, Model Evaluation  
+- **ML Systems:** End-to-End ML Pipelines, Data Preprocessing Pipelines, Model Inference  
+- **Libraries:** Scikit-learn, Pandas, NumPy  
+- **Backend & Deployment:** Flask, Streamlit, REST APIs  
+- **Databases:** MySQL, MongoDB  
 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/> <img height="50" src="https://img.icons8.com/color/480/null/notion--v1.png" />
+### Engineering Principles
+- Prefer simple, explainable models when decisions matter
+- Choose evaluation metrics based on real-world cost of errors
+- Design ML systems with stability, retraining, and data drift awareness
+- Focus on clarity and maintainability over unnecessary complexity
 
+### Interests
+I am interested in roles involving:
+- Applied Machine Learning Engineer
+- ML Engineer (Production / Risk / Analytics)
+- Data Scientist (Applied)
 
-![Muraliram's GitHub stats](https://github-readme-stats.vercel.app/api?username=muraliram516&theme=dark&show_icons=true&&hide=issues,contribs)
-
-[![Leetcode Stats](https://leetcard.jacoblin.cool/muraliram516?ext=contest&theme=dark)](https://leetcode.com/muraliram516)
-
-[![Muraliram's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=muraliram516&bg_color=000000&color=ede3ed&line=2b5822&point=4e4646&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+This GitHub is used to share selected work related to Python development and applied machine learning systems.
